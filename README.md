@@ -8,9 +8,8 @@ Our goal is to push users to use public transports and bicycles over car and als
 
 ## Getting Started
 
-```
-Screenshots of the app to come
-```
+![interface_v1](https://user-images.githubusercontent.com/44749109/48025217-13708600-e143-11e8-9178-23959e294776.png)
+
 
 
 ### Break down into end to end tests
